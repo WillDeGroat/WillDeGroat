@@ -8,6 +8,6 @@ class Scientist:
 Will = Scientist(
   age = 21,
   university = 'Rutgers University',
-  research = ['Computational biology', 'Gene regulation', 'Deep Learning'],
+  research = ['Computational biology', 'Gene regulation', 'Deep Learning']
 )
 ```
