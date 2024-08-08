@@ -1,6 +1,6 @@
 ```python
 class Scientist:
-  def __init__(self, age: int, university: str, research: List[str], hobbies: List[str]) -> None::
+  def __init__(self, age: int, university: str, research: List[str], hobbies: List[str]) -> None:
       self.age: int = age
       self.university: str = school
       self.hobbies: List[str] = hobbies
@@ -8,7 +8,7 @@ class Scientist:
 Will = Scientist(
   age = 21,
   university = 'Rutgers University',
-  research = ['', '', ''],
+  research = ['Computational biology', 'Gene regulation', 'Deep Learning'],
   hobbies = ['', '', '']
 )
 ```
